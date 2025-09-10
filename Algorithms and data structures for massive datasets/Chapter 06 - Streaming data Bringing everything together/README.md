@@ -1,1 +1,0 @@
-# Chapter 6: Streaming data: Bringing everything together

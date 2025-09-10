@@ -1,1 +1,0 @@
-# Chapter 8: Approximate quantiles on data streams

@@ -1,1 +1,0 @@
-# Chapter 2: Review of hash tables and modern hashing

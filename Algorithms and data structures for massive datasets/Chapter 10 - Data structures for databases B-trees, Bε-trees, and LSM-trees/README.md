@@ -1,1 +1,0 @@
-# Chapter 10: Data structures for databases: B-trees, Bε-trees, and LSM-trees
